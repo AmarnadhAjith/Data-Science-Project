@@ -21,6 +21,8 @@ Technologies Used:
 - Jupyter Notebook
 
 Features:
+
+
 Exploratory Data Analysis (EDA): Insights into the dataset through visualizations and statistical summaries.
 
 Model Training and Evaluation: Trains and evaluates different models, including Linear Regression, Random Forest, and XGBoost.
